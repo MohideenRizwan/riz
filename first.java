@@ -14,10 +14,10 @@ class Ideone
 	
 		int i = sc.nextInt();
 		if(i>0){
-			System.out.println("positive");
+			System.out.println("Positive");
 		}
 		else{
-			System.out.println("zero");
+			System.out.println("Zero");
 		}
 		}
 		catch(Exception e){System.out.println(e);}
